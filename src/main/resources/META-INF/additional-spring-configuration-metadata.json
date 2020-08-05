@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "mailgun.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'mailgun.api.key'"
+  },
+  {
+    "name": "mailgun.api.domain",
+    "type": "java.lang.String",
+    "description": "A description for 'mailgun.api.domain'"
+  },
+  {
+    "name": "sendgrid.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'sendgrid.api.key'"
+  },
+  {
+    "name": "mailgun.api.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'mailgun.api.endpoint'"
+  },
+  {
+    "name": "gateway.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'gateway.timeout'"
+  }
+]}
